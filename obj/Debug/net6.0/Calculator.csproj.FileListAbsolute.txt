@@ -1,0 +1,15 @@
+C:\BALTA\Calculator\bin\Debug\net6.0\Calculator.exe
+C:\BALTA\Calculator\bin\Debug\net6.0\Calculator.deps.json
+C:\BALTA\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+C:\BALTA\Calculator\bin\Debug\net6.0\Calculator.dll
+C:\BALTA\Calculator\bin\Debug\net6.0\ref\Calculator.dll
+C:\BALTA\Calculator\bin\Debug\net6.0\Calculator.pdb
+C:\BALTA\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+C:\BALTA\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\BALTA\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+C:\BALTA\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+C:\BALTA\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+C:\BALTA\Calculator\obj\Debug\net6.0\Calculator.dll
+C:\BALTA\Calculator\obj\Debug\net6.0\ref\Calculator.dll
+C:\BALTA\Calculator\obj\Debug\net6.0\Calculator.pdb
+C:\BALTA\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
